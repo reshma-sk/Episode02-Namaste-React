@@ -1,0 +1,5 @@
+npm is not a node package manager.
+npm is basically a standard repository for all the packages.It's a biggest package manager.
+If any pkgu need to use in your app ,u can get it from npm.
+All the libraries,utilities u'll need comes from npm 
+There are two types of dependencies.dev dependency and normal dependency
